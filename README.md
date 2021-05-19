@@ -1,4 +1,4 @@
-### Here are some stats 👋
+## Here are some stats 👋
 
 ![FDiskas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdiskas&count_private=true&theme=merko)
 

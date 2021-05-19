@@ -1,6 +1,8 @@
 ## Here are some stats 👋
 
-![FDiskas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdiskas&count_private=true&theme=merko&custom_title=FDiskas%20current%20year%stats&show_icons=true)
+![FDiskas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdiskas&count_private=true&theme=merko&custom_title=FDiskas%20current%20year%20stats&show_icons=true)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fdiskas&theme=merko&custom_title=FDiskas%20coding%20this%20week&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fdiskas&theme=juicyfresh&no-bg=true&margin-w=18&margin-h=18&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 

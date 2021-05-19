@@ -1,4 +1,9 @@
-### Hi there 👋
+### Here are some stats 👋
+
+![FDiskas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdiskas&count_private=true&theme=merko)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fdiskas&theme=onedark&no-bg=true&margin-w=18&margin-h=18&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **FDiskas/FDiskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ## Here are some stats 👋
 
-![FDiskas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdiskas&count_private=true&theme=merko)
+![FDiskas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdiskas&count_private=true&theme=merko&custom_title=FDiskas%20current%20year%stats&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fdiskas&theme=juicyfresh&no-bg=true&margin-w=18&margin-h=18&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 

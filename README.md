@@ -2,7 +2,7 @@
 
 ![FDiskas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdiskas&count_private=true&theme=merko)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fdiskas&theme=onedark&no-bg=true&margin-w=18&margin-h=18&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fdiskas&theme=juicyfresh&no-bg=true&margin-w=18&margin-h=18&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--

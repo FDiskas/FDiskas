@@ -6,8 +6,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fdiskas&theme=juicyfresh&no-bg=true&margin-w=18&margin-h=18&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://www.buymeacoffee.com/fdiskas" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
-
 <!--
 **FDiskas/FDiskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

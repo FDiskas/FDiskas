@@ -6,6 +6,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fdiskas&theme=juicyfresh&no-bg=true&margin-w=18&margin-h=18&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Watch my latest youtube videos
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 <!--
 **FDiskas/FDiskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

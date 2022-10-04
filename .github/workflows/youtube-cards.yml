@@ -11,4 +11,5 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
+          base_url: https://ytcards.vercel.app/
           channel_id: UCLGu2XnVNG48HQtqTXQRptA

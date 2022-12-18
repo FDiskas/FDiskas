@@ -6,8 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fdiskas&theme=juicyfresh&no-bg=true&margin-w=18&margin-h=18&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Snake Stats Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake Stats dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Stats Light](https://raw.githubusercontent.com/FDiskas/FDiskas/main/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Stats dark](https://raw.githubusercontent.com/FDiskas/FDiskas/main/github-snake-dark.svg#gh-dark-mode-only)
 
 ## Watch my latest youtube videos
 <!-- BEGIN YOUTUBE-CARDS -->

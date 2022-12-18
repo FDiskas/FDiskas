@@ -6,6 +6,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fdiskas&theme=juicyfresh&no-bg=true&margin-w=18&margin-h=18&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub Snake Stats Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake Stats dark](github-snake-dark.svg#gh-dark-mode-only)
+
 ## Watch my latest youtube videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![React native basics (part 1)](https://ytcards.vercel.app/?id=TPi-HoxoXCY&title=React+native+basics+%28part+1%29&lang=en&timestamp=1664564068&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "React native basics (part 1)")](https://www.youtube.com/watch?v=TPi-HoxoXCY)

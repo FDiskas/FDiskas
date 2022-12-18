@@ -1,4 +1,4 @@
-name: GitHub Readme YouTube Cards
+name: GitHub Readme Update
 on:
   schedule:
     # At 12:00 AM, on day 1 of the month
@@ -13,3 +13,10 @@ jobs:
         with:
           base_url: https://ytcards.vercel.app/
           channel_id: UCLGu2XnVNG48HQtqTXQRptA
+
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark

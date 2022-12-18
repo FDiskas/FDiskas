@@ -13,6 +13,8 @@ jobs:
         with:
           base_url: https://ytcards.vercel.app/
           channel_id: UCLGu2XnVNG48HQtqTXQRptA
+          theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
+          theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
 
       - uses: Platane/snk@v2
         with:

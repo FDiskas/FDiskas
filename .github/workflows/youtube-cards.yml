@@ -11,7 +11,8 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          base_url: https://ytcards.vercel.app/
+#           base_url: https://ytcards.vercel.app/
+          base_url: https://ytcards.demolab.com/
           channel_id: UCLGu2XnVNG48HQtqTXQRptA
           theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
           theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'

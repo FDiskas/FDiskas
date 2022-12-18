@@ -1,10 +1,12 @@
 ## Here are some stats 👋 <a href="https://www.buymeacoffee.com/fdiskas" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" align="right" ></a>
 
-![FDiskas's GitHub stats dark](https://github-readme-stats.vercel.app/api?username=fdiskas&count_private=true&theme=merko&custom_title=FDiskas%20current%20year%20stats&show_icons=true&theme=dark#gh-dark-mode-only)
-![FDiskas's GitHub stats light](https://github-readme-stats.vercel.app/api?username=fdiskas&count_private=true&theme=merko&custom_title=FDiskas%20current%20year%20stats&show_icons=true&theme=default#gh-light-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fdiskas&show_icons=true&theme=dark&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=fdiskas&show_icons=true&theme=default&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![willianrod's wakatime stats light](https://github-readme-stats.vercel.app/api/wakatime?username=fdiskas&theme=merko&custom_title=FDiskas%20coding%20this%20week&range=last_7_days&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats dark](https://github-readme-stats.vercel.app/api/wakatime?username=fdiskas&theme=merko&custom_title=FDiskas%20coding%20this%20week&range=last_7_days&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=fdiskas&custom_title=FDiskas%20coding%20this%20week&range=last_7_days&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api/wakatime?username=fdiskas&custom_title=FDiskas%20coding%20this%20week&range=last_7_days&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 
 ![GitHub Snake Stats Light](https://raw.githubusercontent.com/fdiskas/fdiskas/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Stats dark](https://raw.githubusercontent.com/fdiskas/fdiskas/output/github-snake-dark.svg#gh-dark-mode-only)

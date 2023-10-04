@@ -11,6 +11,8 @@
 ![GitHub Snake Stats Light](https://raw.githubusercontent.com/fdiskas/fdiskas/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Stats dark](https://raw.githubusercontent.com/fdiskas/fdiskas/output/github-snake-dark.svg#gh-dark-mode-only)
 
+[![An image of @fdiskas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fdiskas)](https://holopin.io/@fdiskas)
+
 ## Watch my latest youtube videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![flutter overview](https://ytcards.demolab.com/?id=wlftr74AdNQ&title=flutter+overview&lang=en&timestamp=1684937290&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "flutter overview")](https://www.youtube.com/watch?v=wlftr74AdNQ#gh-dark-mode-only)[![flutter overview](https://ytcards.demolab.com/?id=wlftr74AdNQ&title=flutter+overview&lang=en&timestamp=1684937290&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5 "flutter overview")](https://www.youtube.com/watch?v=wlftr74AdNQ#gh-light-mode-only)
